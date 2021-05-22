@@ -1,4 +1,4 @@
-# find_counter_example
+# find-counter-example
 
 입력한 명제가 거짓이 되게하는 값을 출력합니다.
 
